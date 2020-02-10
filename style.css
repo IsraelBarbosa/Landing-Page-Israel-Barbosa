@@ -1,0 +1,40 @@
+h2.subTitulo {
+    margin-top: -10px;
+}
+
+div.apresentacao {
+    margin-top: 60px;
+}
+
+h3.tituloDaApresentacao {
+    font-size: 30px;
+}
+
+p.descApresentacao {
+    font-size: 22px;
+    margin-bottom: 40px;
+}
+
+img#imagemRep {
+    width: 200px;
+    height: 200px;
+    display: block;
+    margin: 0 auto;
+}
+
+ul#listaDesc {
+    max-width: 200px;
+    margin: 0 auto;
+}
+
+a#linkPerfil {
+    max-width: 200px;
+    display: block;
+    margin: 0 auto;
+}
+
+section#IdTec {
+    background-color: rgb(253, 51, 0);
+    border-radius: 10px;
+    padding-bottom: 300px;
+}
