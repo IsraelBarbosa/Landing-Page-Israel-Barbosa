@@ -48,6 +48,9 @@
     </main>
 
     <script src="script.js"></script>
+    <?php 
+    $var = "ola mundo";
+    ?>
 </body>
 
 </html>
