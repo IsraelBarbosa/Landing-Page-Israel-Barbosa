@@ -27,7 +27,7 @@
                     <p class="descApresentacao">Tenho uma base em HTML, CSS e noções em bootstrap. Também iniciei os
                         meus estudos em JavaScript, e possuo noções de desenvolvimento de programas básicos.</p>
                     <p class="descApresentacao">Pretendo estar sempre atualizando meus conhecimentos através de cursos.
-                        E também fazer uma pós graduação para ser mais capacitado no meu trabalho.
+                        E também fazer uma pós-graduação para ser mais capacitado no meu trabalho.
                     </p>
                 </div>
             </section>
