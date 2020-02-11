@@ -6,13 +6,9 @@ div.apresentacao {
     margin-top: 60px;
 }
 
-h3.tituloDaApresentacao {
-    font-size: 30px;
-}
-
 p.descApresentacao {
     font-size: 22px;
-    margin-bottom: 40px;
+    margin-bottom: 10px;
 }
 
 img#imagemRep {
@@ -34,7 +30,7 @@ a#linkPerfil {
 }
 
 section#IdTec {
-    background-color: rgb(253, 51, 0);
+    background-color: rgb(233, 8, 8);
     border-radius: 10px;
     padding-bottom: 300px;
 }
